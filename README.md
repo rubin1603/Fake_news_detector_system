@@ -6,3 +6,6 @@ To run this project, please make sure you have:
 > Juyter Notebook
 > Sci-kit Learn
 > Statistical Knowledge of Support Vector Machines.
+
+Dataset file : cleaned.csv
+GUI: tkinter (gui.py)
